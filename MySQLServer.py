@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 import mysql.connector
 
 def create_database():
